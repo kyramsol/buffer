@@ -1,0 +1,3 @@
+function getRequestsStatuses() {
+  QubGlobalLibrary.getRequestsStatuses()
+}

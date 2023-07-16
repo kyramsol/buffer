@@ -1,0 +1,3 @@
+function createTriggers() {
+  QubGlobalLibrary.createRequestsTriggers()
+}
